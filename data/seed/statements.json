@@ -1,0 +1,242 @@
+[
+  {
+    "id": "stmt-001",
+    "title": "Harbor City FC Community Pitch Renovation Update",
+    "source_type": "statement",
+    "date": "2025-01-08",
+    "tags": ["community", "grassroots", "facilities"],
+    "summary": "Routine club infrastructure update framed around local access.",
+    "body": "Harbor City FC will complete phase two of its community pitch renovation program this spring. The club said the work will expand youth access, improve lighting, and add accessibility upgrades at East Dock Park.",
+    "risk_notes": "Low sensitivity, positive community framing."
+  },
+  {
+    "id": "stmt-002",
+    "title": "Rivergate United Announces Women's Academy Scholarships",
+    "source_type": "statement",
+    "date": "2025-01-14",
+    "tags": ["academy", "women", "development"],
+    "summary": "Scholarship announcement with a player development focus.",
+    "body": "Rivergate United introduced six new scholarships for its women's academy pathway, citing a multi-year commitment to retain local talent and reduce financial barriers to elite coaching.",
+    "risk_notes": "Low sensitivity unless paired with budget cuts elsewhere."
+  },
+  {
+    "id": "stmt-003",
+    "title": "Metro Hoops League Releases All-Star Weekend Fan Travel Guide",
+    "source_type": "statement",
+    "date": "2025-01-21",
+    "tags": ["events", "fans", "travel"],
+    "summary": "Informational event logistics update.",
+    "body": "The Metro Hoops League published a travel guide for fans attending All-Star Weekend, covering venue access, bag policy, transit options, and recommended arrival times across three downtown venues.",
+    "risk_notes": "Minimal risk."
+  },
+  {
+    "id": "stmt-004",
+    "title": "Northshore Racing Extends Sustainability Partnership",
+    "source_type": "statement",
+    "date": "2025-01-25",
+    "tags": ["sustainability", "sponsor", "partnership"],
+    "summary": "Sponsor extension anchored in emissions reduction claims.",
+    "body": "Northshore Racing renewed its sustainability partnership with CleanGrid Energy and said the agreement will support lower-emission freight planning, paddock recycling, and fan education activations at six events.",
+    "risk_notes": "Watch for greenwashing claims if metrics are vague."
+  },
+  {
+    "id": "stmt-005",
+    "title": "Summit City Ballpark Introduces New Family Seating Section",
+    "source_type": "statement",
+    "date": "2025-02-03",
+    "tags": ["ticketing", "family", "fan experience"],
+    "summary": "Fan experience announcement.",
+    "body": "Summit City Ballpark unveiled a new family seating section that includes alcohol-free rows, stroller storage, and quieter concourse access for younger supporters attending weekend games.",
+    "risk_notes": "Positive fan service framing."
+  },
+  {
+    "id": "stmt-006",
+    "title": "Capital Court Club Details Revised Player Availability Policy",
+    "source_type": "statement",
+    "date": "2025-02-11",
+    "tags": ["policy", "players", "media"],
+    "summary": "Internal policy update for interviews and injury status messaging.",
+    "body": "Capital Court Club updated its player availability policy for post-match media access, requiring clearer timelines on injury disclosures and coordinated messaging between performance staff and communications leads.",
+    "risk_notes": "Could create scrutiny if the club has recent injury secrecy complaints."
+  },
+  {
+    "id": "stmt-007",
+    "title": "Lakefront Athletics Opens New NIL Education Series",
+    "source_type": "statement",
+    "date": "2025-02-14",
+    "tags": ["education", "nil", "compliance"],
+    "summary": "Athlete education initiative focused on NIL literacy.",
+    "body": "Lakefront Athletics launched a quarterly education series to help student-athletes review NIL agreements, disclosure duties, and brand-fit questions before signing commercial partnerships.",
+    "risk_notes": "Compliance-positive, useful comparison for governance language."
+  },
+  {
+    "id": "stmt-008",
+    "title": "East Bay Rugby Confirms Matchday Security Enhancements",
+    "source_type": "statement",
+    "date": "2025-02-18",
+    "tags": ["security", "operations", "fan safety"],
+    "summary": "Venue security update after minor incidents.",
+    "body": "East Bay Rugby confirmed a set of matchday security enhancements including staggered gate openings, updated prohibited item signage, and expanded steward training across supporter sections.",
+    "risk_notes": "Language around fan safety benchmarks is useful for response templates."
+  },
+  {
+    "id": "stmt-009",
+    "title": "Union Harbor SC Announces Pride Night Programming",
+    "source_type": "statement",
+    "date": "2025-02-22",
+    "tags": ["community", "inclusion", "campaign"],
+    "summary": "Inclusive campaign announcement with partner activations.",
+    "body": "Union Harbor SC shared its Pride Night programming, including community-led storytelling content, charity ticket bundles, and clear conduct expectations for all attendees.",
+    "risk_notes": "Monitor for culture-war narrative overlap."
+  },
+  {
+    "id": "stmt-010",
+    "title": "Pioneer Track League Adds Athlete Mental Health Advisors",
+    "source_type": "statement",
+    "date": "2025-02-24",
+    "tags": ["athlete welfare", "mental health", "operations"],
+    "summary": "Athlete support enhancement announcement.",
+    "body": "Pioneer Track League added two independent mental health advisors to its athlete services team, emphasizing confidential access and off-competition support.",
+    "risk_notes": "Positive welfare language."
+  },
+  {
+    "id": "stmt-011",
+    "title": "Harbor City FC Explains Ticket Price Adjustment",
+    "source_type": "statement",
+    "date": "2025-02-27",
+    "tags": ["ticketing", "fans", "pricing"],
+    "summary": "Pricing message tied to stadium upgrades and transport credits.",
+    "body": "Harbor City FC said average season ticket prices will rise by 4 percent next season to fund transit credits, digital ticket transfer upgrades, and maintenance across public concourses.",
+    "risk_notes": "Fans may react if price language appears detached from affordability concerns."
+  },
+  {
+    "id": "stmt-012",
+    "title": "Metro Hoops League Issues Clarification on Officiating Review Process",
+    "source_type": "statement",
+    "date": "2025-03-01",
+    "tags": ["officiating", "integrity", "media"],
+    "summary": "Clarification statement after public criticism.",
+    "body": "The Metro Hoops League said all officiating review conversations remain confidential, but confirmed that every flagged sequence from nationally televised games is assessed through the same integrity framework.",
+    "risk_notes": "Defensive phrasing can invite more media probing."
+  },
+  {
+    "id": "stmt-013",
+    "title": "Northshore Racing Launches Junior Engineering Workshops",
+    "source_type": "statement",
+    "date": "2025-03-03",
+    "tags": ["education", "community", "stem"],
+    "summary": "Community STEM program rollout.",
+    "body": "Northshore Racing launched a traveling workshop series that introduces secondary-school students to vehicle design, data analysis, and pit-lane engineering roles.",
+    "risk_notes": "Low risk."
+  },
+  {
+    "id": "stmt-014",
+    "title": "Summit City Ballpark Renews Local Food Vendor Program",
+    "source_type": "statement",
+    "date": "2025-03-06",
+    "tags": ["vendors", "local", "community"],
+    "summary": "Stadium concessions partnership update.",
+    "body": "Summit City Ballpark renewed its local vendor program and said more than half of premium concession kiosks this season will be operated by independent businesses from the region.",
+    "risk_notes": "Useful low-risk baseline statement."
+  },
+  {
+    "id": "stmt-015",
+    "title": "Capital Court Club Announces Data Privacy Training for Staff",
+    "source_type": "statement",
+    "date": "2025-03-08",
+    "tags": ["privacy", "compliance", "staff"],
+    "summary": "Internal governance statement focused on staff training.",
+    "body": "Capital Court Club said all business operations staff will complete updated data privacy training before the postseason, covering fan records, biometric handling, and retention procedures.",
+    "risk_notes": "Strong compliance framing."
+  },
+  {
+    "id": "stmt-016",
+    "title": "Rivergate United Confirms Supporters' Board Meeting Schedule",
+    "source_type": "statement",
+    "date": "2025-03-09",
+    "tags": ["fans", "governance", "supporters"],
+    "summary": "Governance communication with supporter groups.",
+    "body": "Rivergate United confirmed three supporters' board meetings for the upcoming quarter and said fan representatives will receive advance briefing notes on stadium operations and ticketing topics.",
+    "risk_notes": "Good example of consultative language."
+  },
+  {
+    "id": "stmt-017",
+    "title": "Lakefront Athletics Extends Recovery Partner Agreement",
+    "source_type": "statement",
+    "date": "2025-03-10",
+    "tags": ["sponsor", "health", "partnership"],
+    "summary": "Commercial announcement tied to athlete recovery services.",
+    "body": "Lakefront Athletics extended its recovery partner agreement with PeakMotion Clinics and said student-athletes will gain expanded access to orthopedic screening and post-season rehab support.",
+    "risk_notes": "Low to medium sensitivity because of health claims."
+  },
+  {
+    "id": "stmt-018",
+    "title": "East Bay Rugby Previews Heritage Matchday",
+    "source_type": "statement",
+    "date": "2025-03-11",
+    "tags": ["heritage", "campaign", "community"],
+    "summary": "Cultural storytelling campaign with alumni participation.",
+    "body": "East Bay Rugby previewed its annual Heritage Matchday, with alumni panels, archival content, and a matchday program focused on the club's dockyard roots.",
+    "risk_notes": "Check inclusion and historical framing if expanded."
+  },
+  {
+    "id": "stmt-019",
+    "title": "Union Harbor SC Shares Anti-Abuse Reporting Channels",
+    "source_type": "statement",
+    "date": "2025-03-12",
+    "tags": ["safety", "reporting", "fans"],
+    "summary": "Fan conduct message promoting reporting tools.",
+    "body": "Union Harbor SC reminded fans of its anonymous anti-abuse reporting channels and said matchday teams can escalate serious incidents directly to venue security and league integrity staff.",
+    "risk_notes": "Useful comparator for safety and escalation language."
+  },
+  {
+    "id": "stmt-020",
+    "title": "Pioneer Track League Sets Heat Protocol for Summer Meets",
+    "source_type": "statement",
+    "date": "2025-03-13",
+    "tags": ["athlete welfare", "policy", "weather"],
+    "summary": "Operational safety announcement.",
+    "body": "Pioneer Track League released a summer heat protocol covering race scheduling, cooling stations, and meet suspension thresholds for extreme conditions.",
+    "risk_notes": "Credible policy tone."
+  },
+  {
+    "id": "stmt-021",
+    "title": "Harbor City FC Introduces Supporter Travel Subsidy Pilot",
+    "source_type": "statement",
+    "date": "2025-03-14",
+    "tags": ["fans", "travel", "supporters"],
+    "summary": "Pilot program supporting away-match travel.",
+    "body": "Harbor City FC announced a supporter travel subsidy pilot for selected away fixtures, with discounted coach seats and a transparent eligibility process run through official supporter groups.",
+    "risk_notes": "Generally favorable, but fairness questions may arise."
+  },
+  {
+    "id": "stmt-022",
+    "title": "Metro Hoops League Announces Referee Development Scholarship",
+    "source_type": "statement",
+    "date": "2025-03-15",
+    "tags": ["officiating", "development", "education"],
+    "summary": "Talent pipeline announcement for future officials.",
+    "body": "The Metro Hoops League introduced a referee development scholarship for former players and grassroots officials, with mentoring and game-management training built into the program.",
+    "risk_notes": "Low sensitivity."
+  },
+  {
+    "id": "stmt-023",
+    "title": "Northshore Racing Outlines Fan Data Opt-In Changes",
+    "source_type": "statement",
+    "date": "2025-03-16",
+    "tags": ["privacy", "fans", "data"],
+    "summary": "Consent-focused update to digital engagement tools.",
+    "body": "Northshore Racing said fans will now opt in separately for location-based offers, sponsor promotions, and telemetry-based interactive content through the series app.",
+    "risk_notes": "Helpful example for privacy disclosures."
+  },
+  {
+    "id": "stmt-024",
+    "title": "Summit City Ballpark Publishes Weather Delay Communication Plan",
+    "source_type": "statement",
+    "date": "2025-03-17",
+    "tags": ["operations", "weather", "communications"],
+    "summary": "Operational communications playbook summary for fans.",
+    "body": "Summit City Ballpark published its weather delay communication plan, outlining when fans will receive in-venue updates, push notifications, and refund guidance during severe weather disruptions.",
+    "risk_notes": "Useful as a calm, procedural messaging example."
+  }
+]

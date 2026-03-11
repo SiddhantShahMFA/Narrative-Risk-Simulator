@@ -1,0 +1,22 @@
+[
+  {
+    "id": "policy-001",
+    "title": "Sponsor Category Messaging Guidelines",
+    "source_type": "sponsor_guideline",
+    "date": "2025-01-01",
+    "tags": ["sponsor", "guidelines", "approval"],
+    "summary": "Internal messaging rules for sensitive sponsor categories.",
+    "body": "Communications teams must avoid language that implies guaranteed financial returns, social superiority, or health outcomes in sponsor announcements. Betting, alcohol, crypto, and speculative technology categories require pre-clearance from legal and league relations. Do not combine sensitive sponsor launches with community campaigns, remembrance content, or athlete welfare initiatives. All sponsor mentions should explain safeguards, age restrictions where relevant, and the practical benefit to supporters or participants.",
+    "risk_notes": "Escalate if copy uses celebratory language for restricted categories or if the sponsor category conflicts with adjacent community messaging."
+  },
+  {
+    "id": "policy-002",
+    "title": "Communications Legal and Policy Review Checklist",
+    "source_type": "policy",
+    "date": "2025-01-01",
+    "tags": ["legal", "policy", "review"],
+    "summary": "Pre-publication review checklist for external statements.",
+    "body": "Before release, confirm whether the draft references an active investigation, litigation, athlete health matter, personal data, or regulated commercial category. Avoid categorical denials in developing situations. Use verifiable facts, note when review is ongoing, and route anything involving privacy, gambling, minors, discrimination, or medical claims to legal counsel. If a statement could materially affect sponsor obligations or league rules, mark it for cross-functional approval.",
+    "risk_notes": "High priority for drafts mentioning investigations, privacy, gambling, minors, or medical outcomes."
+  }
+]

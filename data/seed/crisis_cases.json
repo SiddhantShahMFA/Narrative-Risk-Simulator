@@ -1,0 +1,102 @@
+[
+  {
+    "id": "case-001",
+    "title": "Club Sponsor Launch Criticized During Cost-of-Living Campaign",
+    "source_type": "crisis_case",
+    "date": "2024-09-03",
+    "tags": ["sponsor", "timing", "fans"],
+    "summary": "A team promoted a premium betting partnership while running hardship messaging to supporters.",
+    "body": "A top-flight club launched a new betting sponsor with celebratory language on the same week it asked fans to donate to a supporter hardship fund. Coverage focused on hypocrisy, poor timing, and whether the club understood fan sentiment.",
+    "risk_notes": "What went wrong: the commercial announcement ignored the active affordability narrative and amplified criticism through tone-deaf celebration."
+  },
+  {
+    "id": "case-002",
+    "title": "Executive Quote Escalates Investigation Story",
+    "source_type": "crisis_case",
+    "date": "2024-10-11",
+    "tags": ["executive", "legal", "media"],
+    "summary": "A defensive executive quote became the central headline in follow-up coverage.",
+    "body": "During an ongoing investigation, a league executive said critics should wait until the facts are in before attacking the organization. Journalists and activists reframed the quote as dismissive and evasive, prolonging the story for another news cycle.",
+    "risk_notes": "What went wrong: the quote appeared to minimize legitimate concerns and invited media escalation."
+  },
+  {
+    "id": "case-003",
+    "title": "Apology Statement Rejected as Too Corporate",
+    "source_type": "crisis_case",
+    "date": "2024-08-18",
+    "tags": ["apology", "fans", "tone"],
+    "summary": "Supporters and athletes rejected a templated apology after abusive incidents.",
+    "body": "An organization issued a short apology after abuse directed at a player, but the statement focused on reputation damage and omitted clear actions or support for the athlete. The response was criticized as corporate and self-protective.",
+    "risk_notes": "What went wrong: the apology centered the brand, not the harmed people or follow-up actions."
+  },
+  {
+    "id": "case-004",
+    "title": "Crypto Partnership Announcement Triggered Compliance Questions",
+    "source_type": "crisis_case",
+    "date": "2024-11-01",
+    "tags": ["crypto", "sponsor", "compliance"],
+    "summary": "A token partnership announcement invited questions on fan protections and eligibility.",
+    "body": "A club announced a fan-token partnership using investment-style language and broad growth claims. Reporters quickly asked whether promotions had been reviewed for financial compliance and whether younger fans were being targeted.",
+    "risk_notes": "What went wrong: overly promotional language moved the announcement from brand partnership into perceived financial solicitation."
+  },
+  {
+    "id": "case-005",
+    "title": "Insensitive Memorial-Day Campaign Faced Backlash",
+    "source_type": "crisis_case",
+    "date": "2024-05-28",
+    "tags": ["campaign", "timing", "insensitivity"],
+    "summary": "A celebratory campaign post collided with a day of remembrance.",
+    "body": "A club posted an upbeat ticket-sales promotion on a day dominated by memorial coverage and tribute content across the league. Fans and local journalists criticized the club for being disconnected from the emotional context of the day.",
+    "risk_notes": "What went wrong: the message ignored the active emotional environment and made the organization look opportunistic."
+  },
+  {
+    "id": "case-006",
+    "title": "Data Collection Feature Rolled Out Without Clear Consent Language",
+    "source_type": "crisis_case",
+    "date": "2024-12-07",
+    "tags": ["privacy", "data", "legal"],
+    "summary": "Fans objected to vague data-use disclosures in a mobile app launch.",
+    "body": "A league launched a new app feature that collected attendance and location data for sponsor activations, but the release buried consent details and did not clearly explain retention or sharing practices.",
+    "risk_notes": "What went wrong: privacy disclosures were too vague for a sponsor-linked data product."
+  },
+  {
+    "id": "case-007",
+    "title": "Player Welfare Statement Undermined by Schedule Decision",
+    "source_type": "crisis_case",
+    "date": "2024-07-19",
+    "tags": ["welfare", "scheduling", "hypocrisy"],
+    "summary": "A welfare-first statement rang hollow because operations contradicted it.",
+    "body": "After promoting a commitment to athlete recovery, the organization added a compressed travel schedule that players and media had already criticized. The statement was framed as empty messaging rather than a real welfare commitment.",
+    "risk_notes": "What went wrong: published language contradicted visible operational choices."
+  },
+  {
+    "id": "case-008",
+    "title": "Sponsor Integration on Pride Content Drew Immediate Scrutiny",
+    "source_type": "crisis_case",
+    "date": "2024-06-15",
+    "tags": ["sponsor", "community", "activism"],
+    "summary": "A brand-heavy inclusion post was read as opportunistic marketing.",
+    "body": "A team paired Pride messaging with sponsor-led product links and discount codes. Fans and advocacy groups argued the club had commercialized a community initiative while offering little substantive support.",
+    "risk_notes": "What went wrong: the message merged a sensitive community moment with overt sales mechanics."
+  },
+  {
+    "id": "case-009",
+    "title": "Coach Comment About Protests Extended a National Story",
+    "source_type": "crisis_case",
+    "date": "2024-04-10",
+    "tags": ["executive", "social", "media"],
+    "summary": "A short comment on protests became a multi-day controversy.",
+    "body": "A coach told reporters he wished athletes would keep the focus on the game after demonstrations at a previous match. The clip spread quickly because it appeared dismissive of player concerns and broader social context.",
+    "risk_notes": "What went wrong: the quote was easy to excerpt, emotionally charged, and disconnected from stakeholder expectations."
+  },
+  {
+    "id": "case-010",
+    "title": "League Integrity Statement Backfired After Gambling Leak",
+    "source_type": "crisis_case",
+    "date": "2024-09-21",
+    "tags": ["integrity", "gambling", "legal"],
+    "summary": "A rigid denial increased suspicion when new reporting emerged hours later.",
+    "body": "A league issued a forceful integrity statement after reports of irregular betting patterns, saying there was no basis for concern. Additional reporting the same day contradicted that certainty and made the league appear misleading.",
+    "risk_notes": "What went wrong: the statement overclaimed certainty in a developing story."
+  }
+]
