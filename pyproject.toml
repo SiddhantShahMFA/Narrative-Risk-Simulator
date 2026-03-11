@@ -1,0 +1,31 @@
+[project]
+name = "narrative-risk-simulator"
+version = "0.1.0"
+description = "Retrieval-first PR copilot for pre-release narrative risk analysis."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.68.0",
+    "pydantic>=2.10.0",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.43.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

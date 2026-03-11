@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+.env.local
+.env.*
+data/cache/
+.env.example
+.vscode/
+src/narrative_risk_simulator.egg-info/
